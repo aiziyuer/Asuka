@@ -21,4 +21,3 @@ vboxapi==1.0
 virtualenv==13.1.0
 virtualenv-clone==0.2.6
 virtualenvwrapper==4.6.0
-wheel==0.24.0
