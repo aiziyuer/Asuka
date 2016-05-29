@@ -4,3 +4,4 @@ config/
 report/
 scripts/requirements.txt
 testcase/
+.idea/
